@@ -1,6 +1,6 @@
 ### Hello! 👋
 
- 💻 Jobber nå med et nytt prosjekt hvor jeg bruker React Native. Opplastning uke 47 ⏰
+
  <br />
 💡 Er på utkikk etter sommerjobb som utvikler/ UX-designer for sommeren 2021
  <br />
