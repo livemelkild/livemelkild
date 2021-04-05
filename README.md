@@ -22,8 +22,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"/>
 
  <img width="130" alt="Skjermbilde 2020-11-14 kl  22 22 57" src="https://user-images.githubusercontent.com/69898083/99157311-f4a91080-26c7-11eb-86c7-ad2af8795de0.png">
+ <img src="https://user-images.githubusercontent.com/69898083/113597874-a081d700-963c-11eb-9dae-c71207d5a794.png" width="65" height="65"/>
 </p>
-<img src="https://user-images.githubusercontent.com/69898083/113597874-a081d700-963c-11eb-9dae-c71207d5a794.png" width="65" height="65"/>
+
 
 
 
