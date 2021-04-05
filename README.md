@@ -2,9 +2,11 @@
 
 💻 Ta en titt på prosjektene mine under!
  <br />
-💡 Er på utkikk etter sommerjobb som utvikler for sommeren 2021
+🌿 Internship 2021 hos Loopfront AS
  <br />
-🌿 Jobbet som frivillig på studentersamfundet i 3 år!
+👩🏼 Prosjektleder for Kvinneprosjektet NTNU - Booster jenter til å satse på entreprenørskap!
+ <br />
+ 💡 Jobbet som frivillig på Studentersamfundet i Trondheim i 3 år
 
 ### Fredigheter innenfor
 <p float="left">
