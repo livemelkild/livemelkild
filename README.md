@@ -2,7 +2,7 @@
 
 💻 Ta en titt på prosjektene mine under!
  <br />
-🌿 Internship 2021 hos Loopfront AS
+🌿 Internship sommer 2021 hos Loopfront AS
  <br />
 👩🏼 Prosjektleder for Kvinneprosjektet NTNU - Booster jenter til å satse på entreprenørskap!
  <br />
