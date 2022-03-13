@@ -1,10 +1,12 @@
 ### Hello! 👋
 
 💻 Ta en titt på prosjektene mine under!
+<br />
+🌿 CoFounder av startupen Nura
  <br />
 🌿 Internship sommer 2021 hos Loopfront AS
  <br />
-👩🏼 Prosjektleder for Kvinneprosjektet NTNU - Booster jenter til å satse på entreprenørskap!
+👩🏼 Prosjektleder for Boost henne NTNU - Booster jenter til å satse på entreprenørskap!
  <br />
  💡 Jobbet som frivillig på Studentersamfundet i Trondheim i 3 år
 
